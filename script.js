@@ -4,7 +4,7 @@
 //     debugger;
 //     console.log(i); // 3,3,3
 //   }
-//   setTimeout(log, 100)
+//   setTimeout(log, 1000)
 // }
 
 // LET - i is block scope
